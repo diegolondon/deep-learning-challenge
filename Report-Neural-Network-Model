@@ -1,0 +1,9 @@
+-Overview of the analysis: 
+
+The deep learning model achieved the desired performance of 79.27% accuracy in predicting the success of funded charities. 
+
+![image](https://github.com/diegolondon/deep-learning-challenge/assets/122496169/de61edad-9251-475c-847f-1fd3bbe9f390)
+
+At 79.27%, the model did exceed the target performance of 75% accuracy requested in this challenge. However, multiple attempts were made to optimize the model,
+including adjusting input data, modifying the structure of the neural network, and modifying the training regimen.
+
