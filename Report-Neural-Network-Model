@@ -1,6 +1,8 @@
 -Overview of the analysis: 
 
 The deep learning model achieved the desired performance of 79.27% accuracy in predicting the success of funded charities. 
+From this set we removed the data/columns that were non-beneficial, 'EIN and 'NAME'. 
+The target variables used were the 'application' value count and the 'classification' count.
 
 ![image](https://github.com/diegolondon/deep-learning-challenge/assets/122496169/de61edad-9251-475c-847f-1fd3bbe9f390)
 
